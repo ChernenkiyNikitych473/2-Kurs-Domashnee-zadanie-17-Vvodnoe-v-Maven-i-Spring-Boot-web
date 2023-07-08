@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>KURS-2-DOMASHNEE-ZADANIE-17-VVODNOE-V-MAVEN-I-SPRING-BOOT-WEB</groupId>
-    <artifactId>Kurs-2-Domashnee-zadanie17Vvodnoe-v-Maven-i-Spring-Boot-web</artifactId>
+    <artifactId>homework-calculator</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Kurs 2 Domashnee zadanie 17 Vvodnoe v Maven i Spring Boot web</name>
     <description>Kurs 2 Domashnee zadanie 17 Vvodnoe v Maven i Spring Boot web</description>
